@@ -5,7 +5,7 @@
     “DEHYA”,
     “EULA”,
     “GANYU”,
-    “HU TAO”,
+    “HUTAO”,
     “JEAN”,
     “KEQING”,
     “KLEE”,
@@ -14,9 +14,9 @@
     “NAHIDA”,
     “NILOU”,
     “QIQI”,
-    “SHOGUN RAIDEN”,
+    “RAIDEN”,
     “SHENHE”,
-    “YAE MIKO”,
+    “YAE”,
     “YELAN”,
     “YOIMIYA”,
     “AMBER”,
@@ -37,11 +37,11 @@
     “SAYU”,
     “SHINOBU”,
     “SUCROSE”,
-     “XIANGLING”,
-     “XINYAN”,
-     “YANFEI”,
-     “YAOYAO”,
-     “YUN JIN”
+    “XIANGLING”,
+    “XINYAN”,
+    “YANFEI”,
+    “YAOYAO”,
+    “YUNJIN”
        );
    $random = array_rand($respuestas);
    echo $respuestas[$random];
